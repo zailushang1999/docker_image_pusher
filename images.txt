@@ -1,1 +1,1 @@
-griffin
+polardb/polardb_pg_local_instance
